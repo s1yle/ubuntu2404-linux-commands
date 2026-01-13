@@ -1,6 +1,12 @@
 # ubuntu2404-linux-commands
-> 中文版
 # Ubuntu 24.04 LTS 全场景Linux运维指令手册
+> 中文版
+> 该手册使用豆包生成
+> 由于平时遇到不会的命令一条条查实在是太麻烦
+> 故萌生了整理手册的想法
+> 由于内容实在是太多，一晚上肝不完
+> 内容几乎也还没有被审查
+> 就等下次有时间的时候继续肝好了
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Stars](https://img.shields.io/github/stars/你的用户名/ubuntu2404-linux-commands.svg)
